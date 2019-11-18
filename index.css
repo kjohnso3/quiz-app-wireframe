@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: Arial, Helvetica, sans-serif;
+    background: darkgray;
+    text-align: center;
+  }
+
+  header {
+    margin: auto;
+    padding: 30px;
+    width: 50%;
+    border: 3px solid black;
+  }
+  
+  button:hover {
+    cursor: pointer;
+  }
+  
